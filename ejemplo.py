@@ -1,3 +1,3 @@
 #ola
 #test
-x=int(input)
+x=int(input("a")
